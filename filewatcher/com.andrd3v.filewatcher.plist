@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.andrd3v.filewatcher</string>
+	<key>Program</key>
+	<string>/Users/andrei/Library/Developer/Xcode/DerivedData/filewatcher-dfyitldhevkxjghgjhpypdrrxwvh/Build/Products/Debug/filewatcher.xpc/Contents/MacOS/filewatcher</string>
+	<key>MachServices</key>
+	<dict>
+		<key>com.andrd3v.filewatcher</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
